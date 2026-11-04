@@ -1,0 +1,19 @@
+/* Compact language control shared by the three static review-hub routes. */
+.hub-language{position:relative;display:block;flex:none;color:#203b2f;font:500 14px/1.4 Arial,"PingFang SC","Microsoft YaHei",sans-serif;z-index:30}
+.hub-language>summary{display:flex;align-items:center;justify-content:center;gap:8px;min-height:36px;padding:6px 11px;list-style:none;cursor:pointer;border:1px solid #bbc9bf;border-radius:4px;background:#fff;color:#274c3d;white-space:nowrap;font-weight:650}
+.hub-language>summary::-webkit-details-marker{display:none}
+.hub-language>summary>svg{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:1.55;stroke-linecap:round;stroke-linejoin:round}
+.hub-language>summary .hl-arrow{width:12px;height:12px}
+.hub-language[open]>summary .hl-arrow{transform:rotate(180deg)}
+.hub-language>summary:hover,.hub-language[open]>summary{background:#edf2ed}
+.hub-language :focus-visible{outline:2px solid #267451;outline-offset:2px}
+.hub-language-panel{position:absolute;top:calc(100% + 6px);right:0;width:max-content;min-width:205px;max-width:calc(100vw - 24px);max-height:min(460px,calc(100vh - 95px));overflow-y:auto;overscroll-behavior:contain;box-sizing:border-box;border:1px solid #c7d2ca;border-radius:5px;background:white;box-shadow:0 10px 26px #102c211c;padding:8px}
+.hub-language-panel h2{margin:2px 7px 6px;color:#56645c;font:700 11px/1.5 Arial,"PingFang SC","Microsoft YaHei",sans-serif;letter-spacing:.035em}
+.hub-language-row{width:100%;display:flex;align-items:center;justify-content:space-between;gap:15px;min-height:31px;box-sizing:border-box;margin:0;padding:5px 7px;border:0;border-radius:3px;text-decoration:none;color:#263b30;background:transparent;font:500 13px/1.4 Arial,"PingFang SC","Microsoft YaHei",sans-serif;text-align:left;white-space:nowrap;text-transform:none;letter-spacing:0}
+a.hub-language-row:hover,.hub-language-row[aria-current=true]{color:#214a37;background:#e9f1eb}
+.hub-language-row[aria-current=true]{font-weight:700}
+.hub-language-row:disabled{color:#616863;cursor:not-allowed}
+.hub-language-row small{font:500 10px/1.35 Arial,"PingFang SC","Microsoft YaHei",sans-serif;color:#616a64;white-space:nowrap}
+.hub-language-row[aria-current=true] small{font-weight:700;color:#29563d}
+.hub-language-divider{height:1px;margin:5px 4px;background:#dce2dc}
+@media(max-width:550px){.hub-language>summary{gap:5px;padding:5px 7px;min-height:33px;font-size:12px}.hub-language-panel{max-height:calc(100vh - 80px);min-width:185px}}

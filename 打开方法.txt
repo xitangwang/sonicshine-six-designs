@@ -1,0 +1,29 @@
+Sonic Shine | 六套工业官网 · 离线评审
+
+一、先解压整个文件夹，再用浏览器打开入口。请保留文件夹结构。
+  index.html     英文评审入口（默认）
+  zh/index.html  简体中文评审入口
+  en/index.html  保留的旧英文入口
+
+二、语言菜单共有九项。英语（English）与简体中文使用完整的对应页面，可以切换。
+七项仅预留，尚不可访问：西班牙语 Español、意大利语 Italiano、法语 Français、俄语 Русский、
+阿拉伯语 العربية、葡萄牙语 Português、印度尼西亚语 Bahasa Indonesia。它们没有翻译页面。
+
+三、A–F 六案共有 228 个官网页面：英文 114 页、简体中文 114 页。
+另有上述三个评审入口，共 231 个 HTML 文件。导航、站内搜索、案例、工具、图像和工程 PDF 均随包提供。
+在已完成的语种之间切换，会进入同一方案的对应页面。评审手册在 shared/SonicShine-Six-Designs.pdf；
+手册里的网页按钮指向在线评审地址。离线查看网页请使用解压后的 HTML 入口。
+
+四、试填询盘只在浏览器中生成草稿。要通过邮件或 WhatsApp 分享，请自行选择收件人、核对内容后再发送。
+
+Sonic Shine | Six industrial website concepts · Offline review
+
+Extract the entire archive before opening it in a browser. Keep its folder structure intact.
+Open index.html for the default English review, zh/index.html for Simplified Chinese,
+or en/index.html for the preserved English entry point.
+
+The language menu lists nine languages. English and Simplified Chinese are available.
+Spanish, Italian, French, Russian, Arabic, Portuguese and Indonesian are reserved and have no translated pages.
+The site contains 114 pages per available language plus three review entry points (231 HTML files).
+The design guide is in shared/SonicShine-Six-Designs.pdf; its web buttons point to the online site.
+Project enquiries are local drafts and are not sent automatically.
