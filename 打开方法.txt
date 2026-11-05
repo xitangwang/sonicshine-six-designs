@@ -1,29 +1,9 @@
-Sonic Shine | 六套工业官网 · 离线评审
+Sonic Shine · 六套双语官网 / 自动轮播版
 
-一、先解压整个文件夹，再用浏览器打开入口。请保留文件夹结构。
-  index.html     英文评审入口（默认）
-  zh/index.html  简体中文评审入口
-  en/index.html  保留的旧英文入口
+1. 请先完整解压，再双击 index.html，默认打开英文评审入口。中文版入口为 zh/index.html，旧版 en/index.html 仍可使用。
+2. 六套官网的英文、中文各 114 个页面，另有三个评审入口。语言下拉保留 9 种语种，只有 English 和简体中文可以切换，其他 7 种显示暂未开放。
+3. 六套首页均包含三张主视觉，正常浏览时每 6 秒自动切换，鼠标移入暂停，移出继续。可点圆点、左右箭头或暂停按钮。支持手机横向滑动；系统启用减少动态效果时，默认暂停，可手动开启。
+4. 产品、行业应用、定制案例、关于我们、新闻与文章、联系我们均有二级导航，首页直接返回各方案首页。
+5. 本地询盘工具仅生成草稿；查看设计内容不需要登录或联网。
 
-二、语言菜单共有九项。英语（English）与简体中文使用完整的对应页面，可以切换。
-七项仅预留，尚不可访问：西班牙语 Español、意大利语 Italiano、法语 Français、俄语 Русский、
-阿拉伯语 العربية、葡萄牙语 Português、印度尼西亚语 Bahasa Indonesia。它们没有翻译页面。
-
-三、A–F 六案共有 228 个官网页面：英文 114 页、简体中文 114 页。
-另有上述三个评审入口，共 231 个 HTML 文件。导航、站内搜索、案例、工具、图像和工程 PDF 均随包提供。
-在已完成的语种之间切换，会进入同一方案的对应页面。评审手册在 shared/SonicShine-Six-Designs.pdf；
-手册里的网页按钮指向在线评审地址。离线查看网页请使用解压后的 HTML 入口。
-
-四、试填询盘只在浏览器中生成草稿。要通过邮件或 WhatsApp 分享，请自行选择收件人、核对内容后再发送。
-
-Sonic Shine | Six industrial website concepts · Offline review
-
-Extract the entire archive before opening it in a browser. Keep its folder structure intact.
-Open index.html for the default English review, zh/index.html for Simplified Chinese,
-or en/index.html for the preserved English entry point.
-
-The language menu lists nine languages. English and Simplified Chinese are available.
-Spanish, Italian, French, Russian, Arabic, Portuguese and Indonesian are reserved and have no translated pages.
-The site contains 114 pages per available language plus three review entry points (231 HTML files).
-The design guide is in shared/SonicShine-Six-Designs.pdf; its web buttons point to the online site.
-Project enquiries are local drafts and are not sent automatically.
+English: extract the complete folder, then open index.html. The six homepages each feature a three-slide carousel, automatically advancing every six seconds while visible and unpaused. Use the dots, arrows and pause button, or swipe horizontally on a touch screen. Only English and Simplified Chinese are live editions. Contact forms prepare local drafts.
